@@ -12,7 +12,7 @@
 
 ---
 
-## 📜 Project Description
+## 📋 Project Description
 This repository contains sample code demonstrating how to create an Agentic AI application with various frameworks.
 
 | File                        | Description                                       |
