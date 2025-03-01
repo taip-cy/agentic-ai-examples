@@ -35,6 +35,8 @@ cd agentic-ai-examples
 #### 💻 2. Create and Activate a Virtual Environment
 ```bash
 python3 -m venv venv
+```
+```bash
 source ./venv/bin/activate
 ```
 
