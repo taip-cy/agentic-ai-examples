@@ -19,6 +19,7 @@ This repository contains sample code demonstrating how to create an Agentic AI a
 |-----------------------------|---------------------------------------------------|
 | `agentic-ai-multi-agent.py` | A multi-agent Agentic AI using smolagents library.|
 | `custom_tools.py`           | Contains all the custom tools for AI Agents.      |
+| `qa-pipeline-local.py`      | A local inference question-answering pipeline.    |
 
 ---
 
@@ -64,6 +65,7 @@ deactivate
 │-- venv/
 │-- agentic-ai-multi-agent.py
 │-- custom_tools.py
+|-- qa-pipeline-local.py
 │-- requirements.txt
 │-- README.md
 ```
